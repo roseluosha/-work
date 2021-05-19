@@ -1,0 +1,33 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.STYLE1 {
+	font-size: x-large;
+	font-weight: bold;
+	color: #FF0000;
+}
+.STYLE2 {
+	color: #FFFFFF;
+	font-size: small;
+}
+
+a:link { color:#000000;text-decoration:none; }
+a:visited { color:#000000;text-decoration:none; }
+a:hover, a:active { color:#ff0000;text-decoration:none; }
+
+
+a.linkRed:link,a.linkRed:visited{
+	color:#ffffff;
+	text-decoration:none;
+	font-size: large;
+	font-weight: bold;
+}
+a.linkRed:hover,a.linkRed:active{
+	color:#aa0000;
+	text-decoration:none;
+	font-size: large;
+	font-weight: bold;
+}
